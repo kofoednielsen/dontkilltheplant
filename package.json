@@ -1,0 +1,22 @@
+{
+  "name": "dontkilltheplant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "matrix-js-sdk": "^15.6.0",
+    "ts-node": "^10.6.0",
+    "ws": "^8.5.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/ws": "^8.5.1"
+  }
+}
